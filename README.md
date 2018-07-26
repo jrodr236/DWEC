@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+Desenvolupament web en entorn client (DAW)
+================================
 
-You can use the [editor on GitHub](https://github.com/jrodr236/DWEC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
+-------------------------------
+* [Introducció a Javascript](IntroduccioJavascript.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
+----------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UF2. Estructures definides pel programador. Objectes
+---------------------------
 
-```markdown
-Syntax highlighted code block
+UF4. Comunicació asíncrona client-servidor
+---------------------
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+Autor: Joan Rodríguez Bellido
 
-**Bold** and _Italic_ and `Code` text
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-[Link](url) and ![Image](src)
-```
+Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Reconeixement 4.0 Internacional de Creative Commons</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrodr236/DWEC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[#FpInfor](https://github.com/ProfesInformatica/FpInfor) #Daw #DawM06 #DawM06Uf01 #DawM06Uf02 #DawM06Uf03 #DawM06Uf04
