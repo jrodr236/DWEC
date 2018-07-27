@@ -21,7 +21,7 @@ Es poden aconseguir pàgines web dinàmiques si hi afegim estructures de program
 
 ### Front-end
 
-Tecnologies que s'executen al costat del client (navegador). Treballa principalment amb la interfície d'usuari (~~Model~~ **Vista** ~~Controlador~~).
+Tecnologies que s'executen al costat del client (navegador).
 
 El llenguatge utilitzat és el JavaScript.
 
@@ -30,7 +30,7 @@ El llenguatge utilitzat és el JavaScript.
 ### Back-end
 
 
-Tecnologies que s'executen al servidor. Treballa principalment amb la lògica i les dades (**Model** ~~Vista~~ **Controlador**)
+Tecnologies que s'executen al servidor.
 
 Alguns dels llenguatges més utilitzats: PHP, JavaScript (utilitzant Node.js), Java, Python, .net, etc...
 
