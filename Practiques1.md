@@ -1,10 +1,10 @@
-Exercicis bloc 1
+Pràctiques bloc 1
 ================
 
-Exercicis preparatoris
+Pràctiques preparatòries
 ----------------------
 
-> Els següents exercicis no s'avaluaran.
+> Les següents pràctiques no s'avaluaran.
 
 1. Crea una web que mostri la frase *Hello world* utilitzant els tres mètodes de sortida de JavaScript explicats:
   * `innerHTML`
