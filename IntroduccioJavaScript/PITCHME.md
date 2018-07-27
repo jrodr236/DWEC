@@ -20,8 +20,11 @@ Història
 * 90: primeres webs amb formularis
 * webs lentes -> necessitem llenguatge de programació que s'executi al navegador
   * Permetrà validació del formulari al client
-* Brendan Eich, treballant a Netscape, crea **LiveScript** al **Netscape Navigator 2.0**
+* **Brendan Eich**, treballant a Netscape, crea **LiveScript** al **Netscape Navigator 2.0**
   * Després canvia el nom a **JavaScript**.
+
++++
+
 * Microsoft llança **JScript** a Internet Explorer 3.
   * Igual que JavaScript, amb un altre nom per evitar problemes legals.
 * Netscape estandaritza el llenguatge a ECMA: **ECMAScript**
