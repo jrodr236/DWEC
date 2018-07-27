@@ -1,7 +1,7 @@
 Introducció a Javascript
 ======================
 
-[Resum de *Què és JavaScript* i *Història*](https://gitpitch.com/jrodr236/DWEC/master?pIntroduccioJavaScript)
+[Resum](https://gitpitch.com/jrodr236/DWEC/master?pIntroduccioJavaScript)
 
 Què és JavaScript?
 ---------------
