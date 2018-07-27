@@ -7,13 +7,15 @@ Pràctiques preparatòries
 
 ### Número més gran I
 
-Has de crear una web que demani dos números a l’usuari i mostri en pantalla un missatge que digui quin dels dos números és
+Has de crear una web que demani dos números a l’usuari i mostri un missatge que digui quin dels dos números és
 el més gran o si son iguals.
 
 ### Número més gran II
 
 Modifica la web anterior de manera que tot el procés el faci una funció. La funció ha de rebre dos paràmetres (els números) i
-ha de retornar el número més gran. Si són iguals ha de retornar el caràcter “x”. Cal mostrar els mateixos missatges que a
+ha de retornar el número més gran. Si són iguals ha de retornar el caràcter “x”.
+
+Cal mostrar els mateixos missatges que a
 l’exercici anterior però utilitzant la nova funció creada.
 
 ### Quina edat tens? I
@@ -25,7 +27,7 @@ Has de crear una web que demani l’edat a l’usuari i mostri un missatge difer
 
 ### Quina edat tens? II
 
-Crea una web que demani l’edat de l’usuari i si aquesta edat és superior o igual als 18 anys també demani el nom a l’usuari. Cal mostrar en pantalla la informació obtinguda de l’usuari.
+Crea una web que demani l’edat de l’usuari i si aquesta edat és superior o igual als 18 anys també demani el nom a l’usuari. Cal mostrar la informació obtinguda de l’usuari.
 
 ### Imatge
 
@@ -35,7 +37,12 @@ mostrar una imatge qualsevol. En cas contrari s’ha de mostrar un missatge tipu
 ### Encapçalaments
 
 Crea un script que escrigui en una pàgina web els encapçalaments desde `<h1>` fins a `<h6>`, amb un text que posi:
-`encapçalament de nivell X`, on `X` és el nivell que estem escrivint.
+
+```
+encapçalament de nivell X
+```
+
+on `X` és el nivell que estem escrivint.
 
 ###  Números del X al Y de N en N
 
@@ -86,4 +93,7 @@ S'ha de verificar l'entrada de l'usuari. En cas que sigui incorrecta, mostrar un
 
 Cadascuna de les operacions ha d'estar implementada en una funció. Les funcions han d'estar en un fitxer propi, separades del codi html.
 
-Per aquesta pràctica, no et preocupis gaire pel disseny de la pàgina, centra't en que el codi JavaScript sigui correcte, fàcil d'entendre i amb un bon estil de programació.
+Per aquesta pràctica no et preocupis gaire pel disseny de la pàgina. Centra't en que el codi sigui:
+* Clar: fàcilment llegible, amb estructura clara i senzilla, amb un bon estil de programació.
+* Correcte: ha de fer el que es demana.
+* Robust: amb la menor quantitat d'errors possibles, i sent tolerant amb els que succeeixin (per exemple, els causats per l'usuari).
