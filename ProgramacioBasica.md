@@ -3,11 +3,9 @@ Programació bàsica
 
 Els següents aspectes són molt similars a Java, llenguatge que ja coneixeu:
 
-[Sentències](https://www.w3schools.com/js/js_statements.asp)
-
-[Sintaxi](https://www.w3schools.com/js/js_syntax.asp)
-
-[Comentaris](https://www.w3schools.com/js/js_comments.asp)
+* [Sentències](https://www.w3schools.com/js/js_statements.asp)
+* [Sintaxi](https://www.w3schools.com/js/js_syntax.asp)
+* [Comentaris](https://www.w3schools.com/js/js_comments.asp)
 
 Variables
 ---------
@@ -50,11 +48,9 @@ pi + "<br>" + person + "<br>" + answer;
 
 Continuem amb aspectes similars a Java:
 
-[Operadors](https://www.w3schools.com/js/js_operators.asp)
-
-[Aritmètica](https://www.w3schools.com/js/js_arithmetic.asp)
-
-[Assignació](https://www.w3schools.com/js/js_assignment.asp)
+* [Operadors](https://www.w3schools.com/js/js_operators.asp)
+* [Aritmètica](https://www.w3schools.com/js/js_arithmetic.asp)
+* [Assignació](https://www.w3schools.com/js/js_assignment.asp)
 
 Tipus de dades
 ---------------
@@ -110,7 +106,9 @@ document.getElementById("demo").innerHTML = x;
 
 Perquè el resultat és diferent? La resposta té a veure amb els tipus de dades.
 
-### A JavaScript, els tipus son dinàmics
+### Tipus dinàmics
+
+A JavaScript els tipus son dinàmics
 
 ```html
 <!DOCTYPE html>

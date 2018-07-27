@@ -8,7 +8,7 @@ UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 * [A on?](AOn.md)
 * [Sortida](Sortida.md)
 * [Programació bàsica](ProgramacioBasica.md)
-* [**Exercicis bloc 1**](Exercicis1.md)
+* [*Exercicis bloc 1*](Exercicis1.md)
 
 UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 ----------------------------
