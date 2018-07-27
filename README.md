@@ -3,7 +3,10 @@ Desenvolupament web en entorn client (DAW)
 
 UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 -------------------------------
-* [Introducció a Javascript](IntroduccioJavascript.md)
+* [Introducció a JavaScript](IntroduccioJavaScript.md)
+* [Què es pot fer amb JavaScript?](QueEsPotFer.md)
+* [A on](AOn.md)
+* [Sortida](Sortida.md)
 
 
 UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document

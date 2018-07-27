@@ -1,14 +1,16 @@
 Introducció a Javascript
 ======================
 
-Què és Javascript?
+[Resum de *Què és JavaScript* i *Història*](https://gitpitch.com/jrodr236/DWEC/master?pIntroduccioJavaScript)
+
+Què és JavaScript?
 ---------------
 
-Javascript és el que es coneix com un llenguatge de script, es tracta de codi de programació inserit en un document.
+JavaScript és el que es coneix com un llenguatge de script, es tracta de codi de programació inserit en un document.
 
 Va ser desenvolupat per la empresa Netscape amb la idea de potenciar portals web dinàmiques amb navegador Netscape Navigator.
 
-Javascript és interpretat directament pel navegador i per tant necessita accedir als elements HTML de la pàgina.
+JavaScript és interpretat directament pel navegador i per tant necessita accedir als elements HTML de la pàgina.
 
 La definició del [MDN](https://developer.mozilla.org/ca/docs/Web/JavaScript) és:
 > JavaScript® (tot sovint abreujat com a JS) és un llenguatge orientat a objectes, lleuger i interpretat, amb [funcions de primera classe](https://en.wikipedia.org/wiki/First-class_functions), més conegut per ser el llenguatge d'scripting per a pàgines Web, però també utilitzat en molts àmbits fora d'un navegador web com ara [node.js](http://nodejs.org/) o [Apache CouchDB](http://couchdb.apache.org/).
@@ -38,107 +40,3 @@ ECMA ha publicat diferents edicions relacionades amb ECMAScript.
 A data d’avui la gran majoria de navegadors suporten l’estàndard **ECMAScript 5.1**.
 
 La última versió és **ECMAScript 9** publicada al Juny de 2018.
-
-
-
-Què es pot fer amb Javascript?
-----------------------
-
-[*Teoria completa*](https://www.w3schools.com/js/js_intro.asp)
-
-Anem a veure alguns exemples:
-
-### Canviar contingut
-
-```JavaScript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
-
-<p id="demo">JavaScript can change HTML content.</p>
-
-<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
-
-</body>
-</html>
-```
-
-### Canviar valors d'atributs
-
-```JavaScript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
-
-<p>JavaScript can change HTML attribute values.</p>
-
-<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
-
-<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulbon.gif'">Turn on the light</button>
-
-<img id="myImage" src="https://www.w3schools.com/js/pic_bulboff.gif" style="width:100px">
-
-<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulboff.gif'">Turn off the light</button>
-
-</body>
-</html>
-```
-
-### Canviar estils
-
-```Javascript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
-
-<p id="demo">JavaScript can change the style of an HTML element.</p>
-
-<button type="button" onclick="document.getElementById('demo').style.fontSize='35px'">Click Me!</button>
-
-
-</body>
-</html>
-```
-
-### Ocultar elements
-
-```Javascript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
-
-<p id="demo">JavaScript can hide HTML elements.</p>
-
-<button type="button" onclick="document.getElementById('demo').style.display='none'">Click Me!</button>
-
-
-</body>
-</html>
-```
-
-### Mostrar elements
-
-```JavaScript
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
-
-<p>JavaScript can show hidden HTML elements.</p>
-
-<p id="demo" style="display:none">Hello JavaScript!</p>
-
-<button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
-
-</body>
-</html>
-```
