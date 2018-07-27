@@ -6,7 +6,7 @@ Sortida
 `innerHTML`
 --------------------
 
-```HTML
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -29,7 +29,7 @@ document.getElementById("demo").innerHTML = 5 + 6;
 `window.alert()`
 -------------------------
 
-```HTML
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -54,7 +54,7 @@ Per debugar.
 
 Activar menú de depuració (F12) i seleccionar *console*.
 
-```HTML
+```html
 <!DOCTYPE html>
 <html>
 <body>

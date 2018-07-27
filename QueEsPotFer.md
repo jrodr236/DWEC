@@ -3,11 +3,8 @@ Què es pot fer amb Javascript?
 
 [*Teoria completa*](https://www.w3schools.com/js/js_intro.asp)
 
-Anem a veure alguns exemples:
 
 ### Canviar contingut
-
-
 
 ```html
 <!DOCTYPE html>
