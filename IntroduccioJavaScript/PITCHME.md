@@ -35,8 +35,6 @@ A on s'executen?
 
 Tecnologies que s'executen al costat del client (navegador).
 
-Principalment: ~~Model~~ **Vista** ~~Controlador~~.
-
 ![JavaScript](http://lineadecodigo.com/wp-content/uploads/2014/04/javascript.png)
 
 +++
@@ -45,8 +43,6 @@ Principalment: ~~Model~~ **Vista** ~~Controlador~~.
 
 
 Tecnologies que s'executen al servidor.
-
-Principalment: **Model** ~~Vista~~ **Controlador**.
 
 ![llenguatges back-end](https://image.slidesharecdn.com/97d66a5b-e796-4247-b320-a623835d58f8-160630025826/95/computer-programming-for-lawyers-15-638.jpg?cb=1467292671)
 

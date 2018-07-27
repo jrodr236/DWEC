@@ -1,6 +1,8 @@
 Events
 =====
 
+[*Teoria completa*](https://www.w3schools.com/js/js_events.asp)
+
 Els events d'HTML son **"coses"** que passen als elements HTML.
 
 JavaScript pot **"reaccionar"** a aquests events.
@@ -34,9 +36,9 @@ function displayDate() {
 [demo](https://www.w3schools.com/js/tryit.asp?filename=tryjs_events1)
 
 Alguns events habituals:
-* onchange
-* onclick
-* onmouseover
-* onmouseout
-* onkeydown
-* onload
+* onchange: s'ha canviat un element HTML
+* onclick: l'usuari fa clic a un element HTML
+* onmouseover: l'usuari mou el ratolí a sobre d'un element HTML
+* onmouseout: l'usuari treu el ratolí d'un element HTML
+* onkeydown: L'usuari pressiona una tecla
+* onload: el navegador acaba de carregar una pàgina

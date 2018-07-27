@@ -36,6 +36,7 @@ Alguns dels llenguatges més utilitzats: PHP, JavaScript (utilitzant Node.js), J
 
 ![llenguatges back-end](https://image.slidesharecdn.com/97d66a5b-e796-4247-b320-a623835d58f8-160630025826/95/computer-programming-for-lawyers-15-638.jpg?cb=1467292671)
 
+
 Què és JavaScript?
 ---------------
 
