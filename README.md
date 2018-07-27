@@ -7,8 +7,13 @@ UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 * [Què es pot fer amb JavaScript?](QueEsPotFer.md)
 * [A on?](AOn.md)
 * [Sortida](Sortida.md)
-* [Programació bàsica](ProgramacioBasica.md)
+* [Elements bàsics](ElementsBasics.md)
 * [*Exercicis bloc 1*](Exercicis1.md)
+* [Funcions](Funcions.md)
+* [Objectes](Objectes.md)
+* [Events](Events.md)
+* [Tipus i objectes elementals](TipusIObjectesElementals.md)
+* [Condicionals i bucles](CondicionalsIBucles.md)
 
 UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 ----------------------------

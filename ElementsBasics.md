@@ -1,4 +1,4 @@
-Programació bàsica
+Elements bàsics
 ==================
 
 Els següents aspectes són molt similars a Java, llenguatge que ja coneixeu:

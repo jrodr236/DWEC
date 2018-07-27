@@ -118,3 +118,9 @@ Què es pot fer amb Javascript?
 ```
 
 [demo](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_show)
+
+-------
+
+Fixa't en dos aspectes importants:
+* **Events**: "coses" que passen en els elements HTML. JavaScript pot "reaccionar" a aquests events.
+* **Accés al DOM**: JavaScript pot accedir i canviar tots els elements del document HTML.
