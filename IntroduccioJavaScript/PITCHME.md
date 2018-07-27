@@ -1,7 +1,7 @@
 Introducció a Javascript
 ======================
 
-[Veure teoria](https://gitpitch.com/jrodr236/DWEC/master?pIntroduccioJavaScript)
+[Veure teoria](https://jrodr236.github.io/DWEC/IntroduccioJavaScript.html)
 
 ---
 
