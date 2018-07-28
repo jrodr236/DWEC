@@ -89,11 +89,11 @@ Haurà de complir els següents requeriments:
 9. Ha de permetre obtenir un número aleatori entre dos números donats.
 10. Ha de permetre fer les operacions lògiques AND, OR i NOT.
 
-S'ha de verificar l'entrada de l'usuari. En cas que sigui incorrecta, mostrar un error.
+S'ha de **verificar l'entrada** de l'usuari. En cas que sigui incorrecta, mostrar un error.
 
-Cadascuna de les operacions ha d'estar implementada en una funció. Les funcions han d'estar en un fitxer propi, separades del codi html.
+Cadascuna de les operacions ha d'estar implementada en una **funció**. Les funcions han d'estar en un fitxer propi, separades del codi html.
 
 Per aquesta pràctica no et preocupis gaire pel disseny de la pàgina. Centra't en que el codi sigui:
-* Clar: fàcilment llegible, amb estructura clara i senzilla, amb un bon estil de programació.
-* Correcte: ha de fer el que es demana.
-* Robust: amb la menor quantitat d'errors possibles, i sent tolerant amb els que succeeixin (per exemple, els causats per l'usuari).
+* **Clar:** fàcilment llegible, amb estructura clara i senzilla, amb un bon estil de programació.
+* **Correcte:** ha de fer el que es demana.
+* **Robust:** amb la menor quantitat d'errors possibles, i sent tolerant amb els que succeeixin (per exemple, els causats per l'usuari).
