@@ -40,4 +40,4 @@ Aquesta obra està subjecta a una llicència de <a rel="license" href="http://cr
 
 ---
 
-[#FpInfor](https://github.com/ProfesInformatica/FpInfor) #Daw #DawM06 #DawM06Uf01 #DawM06Uf02 #DawM06Uf03 #DawM06Uf04
+[#FpInfor](https://profesinformatica.github.io/FpInfor/) #Daw #DawM06 #DawM06Uf01 #DawM06Uf02 #DawM06Uf03 #DawM06Uf04
