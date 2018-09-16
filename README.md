@@ -8,13 +8,13 @@ UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 * [A on?](AOn.md)
 * [Sortida](Sortida.md)
 * [Elements bàsics](ElementsBasics.md)
-* [**Pràctiques bloc 1**](Practiques1.md)
+* [_Pràctiques bloc 1_](Practiques1.md)
 * [Funcions](Funcions.md)
 * [Objectes](Objectes.md)
 * [Events](Events.md)
 * [Tipus i objectes elementals](TipusIObjectesElementals.md)
 * [Condicionals i bucles](CondicionalsIBucles.md)
-* [**Pràctiques bloc 2**](Practiques2.md)
+* [_Pràctiques bloc 2_](Practiques2.md)
 
 UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 ----------------------------
@@ -25,7 +25,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Elements DOM](DOMElements.md)
 * [Canviant l'HTML](DOMHTML.md)
 * [Canviant el CSS](DOMCSS.md)
-* [**Pràctiques bloc 3**](Practiques3.md)
+* [_Pràctiques bloc 3_](Practiques3.md)
 * [Animacions DOM](DOMAnimacions.md)
 * [Events DOM](DOMEvents.md)
 * [Event Listener DOM](DOMEventListener.md)
@@ -33,7 +33,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Nodes DOM](DOMNodes.md)
 * [Col·leccions DOM](DOMCollecions.md)
 * [Llistes de nodes DOM](DOMLlistesDeNodes.md)
-* [**Pràctiques bloc 4**](Practiques4.md)
+* [_Pràctiques bloc 4_](Practiques4.md)
 
 ...
 

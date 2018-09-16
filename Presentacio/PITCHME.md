@@ -73,18 +73,14 @@ Instruments d'avaluació
 -----------------------
 
 
-Demostracions i correcció en veu alta: 30%
-
-Lliuraments: 30%
+Lliuraments: 60%
 
 Proves (exàmens): 40%
 
 +++
 
-### Demostracions i correcció en veu alta
+### Qualificacions amb lletres
 
-
-Seguiment treball diari
 
 
 |A|B|C|D|E|
@@ -96,7 +92,7 @@ Seguiment treball diari
 
 ### Lliuraments
 
-* _Teoria: test
+* Teoria: test
 
 * Pràctica: exercicis
   * Penjats a BitBucket (posar-me com a editor)
