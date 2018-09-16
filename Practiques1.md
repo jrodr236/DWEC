@@ -14,3 +14,7 @@ Pràctiques preparatòries
 2. Fes les següents modificacions a l'exercici anterior:
   * Afegeix un comentari amb el teu nom
   * Fes que les dues paraules (*Hello* i *world*) estiguin emmagatzemades cadascuna en una variable.
+
+Pràctiques avaluables
+-------------------
+> Més endavant estaràn disponibles al _Moodle_.

@@ -12,19 +12,16 @@ Mòdul professional de 2n de DAW
 
 3 hores a la setmana
 
-Crear pàgines web dinàmiques, des del costat del navegador.
+Crear pàgines web dinàmiques, en el costat del navegador.
 
 ---
 
 Unitats formatives
 ---------------------
-UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
-
-UF3. Esdeveniments. Manejament de formularis. Model d’objectes del documents
-
-UF2. Estructures definides pel programador. Objectes
-
-UF4. Comunicació asíncrona client-servidor
+* UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge
+* UF3. Esdeveniments. Manejament de formularis. Model d’objectes del documents
+* UF2. Estructures definides pel programador. Objectes
+* UF4. Comunicació asíncrona client-servidor
 
 ---
 
@@ -59,7 +56,7 @@ UF2. Estructures definides pel programador. Objectes
 UF4. Comunicació asíncrona client-servidor
 ---------------
 
-![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/200px-AJAX_logo_by_gengns.svg.png)
+![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/320px-AJAX_logo_by_gengns.svg.png)
 
 ---
 
@@ -99,7 +96,7 @@ Seguiment treball diari
 
 ### Lliuraments
 
-* _Teoria?: test_
+* _Teoria: test
 
 * Pràctica: exercicis
   * Penjats a BitBucket (posar-me com a editor)
