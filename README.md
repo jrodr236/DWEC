@@ -35,8 +35,6 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Llistes de nodes DOM](DOMLlistesDeNodes.md)
 * [_Pràctiques bloc 4_](Practiques4.md)
 
-...
-
 UF2. Estructures definides pel programador. Objectes
 ---------------------------
 
