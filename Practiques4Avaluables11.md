@@ -19,3 +19,5 @@ Es valorarà que el programa estigui preparat per poder afegir més colors a tri
 Recorda: centra't en que el codi sigui **clar**, **correcte** i **robust**.
 
 ![Imatge d'exemple](img/TaulaDeColors.png)
+
+El nom de tots els fitxers que generis ha de començar per `uf2-4`

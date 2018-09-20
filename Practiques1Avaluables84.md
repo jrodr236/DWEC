@@ -18,3 +18,5 @@ Crea una web que, utilitzant JavaScript:
    - 556 % 10
    - Concatenació de 'hola, ' i 'que tal?'
    - 1<10 && 10<20
+
+El nom de tots els fitxers que generis ha de començar per `uf1-1`

@@ -15,3 +15,5 @@ Com a màxim es podran introduïr 10 articles.
 El formulari tindrà un botó de "Guardar dades" que afegirà totes les dades dels articles en una taula, incloent el preu final per article (a on s'ha d'aplicar el 21% d'IVA), i el preu final total.
 
 Assegura't que fas la verificació de les dades del formulari.
+
+El nom de tots els fitxers que generis ha de començar per `uf2-3`
