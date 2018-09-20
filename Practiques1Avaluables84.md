@@ -20,3 +20,5 @@ Crea una web que, utilitzant JavaScript:
    - 1<10 && 10<20
 
 Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf1-1`
+
+patata
