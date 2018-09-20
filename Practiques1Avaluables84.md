@@ -19,4 +19,4 @@ Crea una web que, utilitzant JavaScript:
    - Concatenació de 'hola, ' i 'que tal?'
    - 1<10 && 10<20
 
-El nom de tots els fitxers que generis ha de començar per `uf1-1`
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf1-1`

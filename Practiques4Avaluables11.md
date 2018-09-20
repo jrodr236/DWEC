@@ -20,4 +20,4 @@ Recorda: centra't en que el codi sigui **clar**, **correcte** i **robust**.
 
 ![Imatge d'exemple](img/TaulaDeColors.png)
 
-El nom de tots els fitxers que generis ha de començar per `uf2-4`
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf2-4`

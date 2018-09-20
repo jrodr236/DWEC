@@ -26,4 +26,4 @@ Per aquesta pràctica no et preocupis gaire pel disseny de la pàgina. Centra't 
 * **Correcte:** ha de fer el que es demana.
 * **Robust:** amb la menor quantitat d'errors possibles, i sent tolerant amb els que succeeixin (per exemple, els causats per l'usuari).
 
-El nom de tots els fitxers que generis ha de començar per `uf1-2`
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf1-2`
