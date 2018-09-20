@@ -20,10 +20,15 @@ _Frameworks_ més importants
 
 Tot i que aquest és un tema molt cambiant, podríem dir que els _frameworks_ de JavaScript més importants són:
 
-### React
+### ReactJS
 ![React logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png)
 
-És una llibreria de Facebook enfocada a la creació de vistes amb particularitats com els patrons d'events, que permeten actualitzar les vistes mencionades quan les dades hagin estat modificades.
+És una llibreria de Facebook de codi obert.
+
+Alguns beneficis que ofereix son la millora del rendiment, la modularitat, i promou un flux molt clar de dades i events, facilitant el desenvolupament d'apps complexes.
+
+ReactJS és un _framework_ enfocat a la visualització. Si estem iniciant un projecte podem basar-nos en la seva arquitectura _Flux_, però si ja tenim un projecte utilitzant un _framework_ MVC (Model-Vista-Controlador) com Angular, podem deixar Angular com a Controlador i que ReactJS s'encarregui de les vistes. Això té sentit ja que ReactJS té un gran rendiment al manipular el DOM.
+
 
 ### Sense _framework_
 
@@ -37,9 +42,11 @@ La principal avantatja és el temps de càrrega que t'estalvies al no tenir un f
 
 ![AngularJS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/1280px-AngularJS_logo.svg.png)
 
+Es tracta d'un _framework_ de codi obert desenvolupat per Google.
+
 Encara que no és la última versió, el canvi que hi va haver va ser tan gran a la API que Angular 2 ha fet que alguns desenvolupadors no s'hagin posat al dia a les últimes versions, o no han actualitzat el codi de les seves aplicacions, pel gran esforç que suposaria.
 
-Respecte a l'aprenentatge, es recomanda estudiar les últimes versions, ja que Google (el desenvolupador d'Angular) asegura que en el futur les versions seràn retrocompatibles entre si.
+Respecte a l'aprenentatge, es recomanda estudiar les últimes versions, ja que Google asegura que en el futur les versions seràn retrocompatibles entre si.
 
 ### VueJS
 
