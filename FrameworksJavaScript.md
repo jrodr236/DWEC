@@ -56,7 +56,7 @@ Té força similituds amb el cicle de vida de React i Angular.
 
 ### Angular 2 i posteriors
 
-![Angular logo](http://www.stickpng.com/assets/images/5847ea22cef1014c0b5e4833.png)
+![Angular logo](https://angular.io/assets/images/logos/angular/angular.svg)
 
 Angular 2 va ser una versió d'Angular força convulsa en el seu llançament perquè introduïa una gran diferència respecte a la seva verió anterior, el que va causar que els desenvolupadors d'enfadessin al trobar-se una nova API, i inclòs que tot el nou codi estava escrit en TypeScript, un nou llenguatge que en general encara no es coneixia.
 
