@@ -64,7 +64,7 @@ Entrada
 2, 20, 3
 
 Sortida
-2, 4, 7, 10, 13, 16, 19
+2, 5, 8, 11, 14, 17, 20
 ```
 
 ###  Números del X al Y al revés
