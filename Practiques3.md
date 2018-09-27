@@ -5,7 +5,7 @@ Pràctiques preparatòries
 -------------------
 > Les següents pràctiques no s'avaluaran.
 
-### Formulari bàsic
+### 1. Formulari bàsic
 
 Crea un web amb un formulari de dades personal bàsic:
 - Nom
@@ -18,7 +18,7 @@ Crea un web amb un formulari de dades personal bàsic:
 Fes que, abans de fer-se el _submit_, es realitzi la verificació de totes les dades.
 
 
-### Editor tàctil
+### 2. Editor tàctil
 
 Desenvolupa un editor tàctil en una web. Aquesta web tindrà tres parts:
 
