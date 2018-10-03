@@ -6,7 +6,7 @@ Calculadora *especial*
 Crea una pàgina web que sigui una calculadora *especial*.
 
 Haurà de complir els següents requeriments:
-1. Ha de permetre sumar, restar, multiplicar i dividir números.
+1. Ha de permetre sumar, restar, multiplicar i dividir dos números.
 2. Ha de permetre fer potències. S'ha d'implementar a base de multiplicacions.
 3. Ha de permetre fer el factorial d'un número. S'ha d'implementar de forma recursiva.
 4. Ha de permetre concatenar paraules.
