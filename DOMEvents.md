@@ -54,3 +54,4 @@ function changeText(id) {
 
 [demo](https://www.w3schools.com/js/tryit.asp?filename=tryjs_event_onclick3)
 
+(...)
