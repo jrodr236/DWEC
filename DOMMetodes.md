@@ -1,5 +1,8 @@
 Mètodes DOM
 =========
+
+[Teoria completa](https://www.w3schools.com/js/js_object_methods.asp)
+
 Al DOM, tots els elements HTML son definits com objectes.
 
 Els mètodes DOM son accions que pots realitzar sobre els elements HTML.
