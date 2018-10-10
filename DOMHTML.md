@@ -1,6 +1,7 @@
 Canviant l'HTML
 ======
 
+[Teoria Completa](https://www.w3schools.com/js/js_htmldom_html.asp)
 
 ```html
 <!DOCTYPE html>
