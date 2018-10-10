@@ -5,7 +5,7 @@ Animacions DOM
 
 El següent codi és un exemple molt senzill d'una animació.
 
-S'utilitzen events de _timing_ del BOM, que es veurà més endavant (https://www.w3schools.com/js/js_timing.asp).
+S'utilitzen events de _timing_ del BOM, que es veurà més endavant ([w3schools - JavaScript Timing Events](https://www.w3schools.com/js/js_timing.asp)).
 
 ```html
 <!DOCTYPE html>
