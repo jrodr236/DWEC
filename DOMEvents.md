@@ -14,7 +14,7 @@ Exemples d'events HTML:
 - Quan una pàgina web s'ha carregat
 - Quan una imatge s'ha carregat
 - Quan el ratolí es mou per sobre d'un element
-- Quan un camp <input> es canvia
+- Quan un camp `<input>` es canvia
 - Quan es fa _submit_ a un formulari
 - Quan l'usuari pressiona una tecla
 
