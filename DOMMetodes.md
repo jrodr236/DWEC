@@ -1,7 +1,7 @@
 Mètodes DOM
 =========
 
-[Teoria completa](https://www.w3schools.com/js/js_object_methods.asp)
+[Teoria completa](https://www.w3schools.com/js/js_htmldom_methods.asp)
 
 Al DOM, tots els elements HTML son definits com objectes.
 
