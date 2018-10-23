@@ -3,12 +3,18 @@ Desenvolupament web en entorn client (DAW)
 
 UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 -------------------------------
+
+### Bloc 1 de Javascript
+
 * [Introducció a JavaScript](IntroduccioJavaScript.md)
 * [Què es pot fer amb JavaScript?](QueEsPotFer.md)
 * [A on?](AOn.md)
 * [Sortida](Sortida.md)
 * [Elements bàsics](ElementsBasics.md)
 * [_Pràctiques bloc 1_](Practiques1.md)
+
+### Bloc 2 de Javascript
+
 * [Funcions](Funcions.md)
 * [Objectes](Objectes.md)
 * [Events](Events.md)
@@ -18,6 +24,9 @@ UF1. Sintaxi del llenguatge. Objectes predefinits del llenguatge.
 
 UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 ----------------------------
+
+### Bloc 3 de Javascript
+
 * [Formularis](Formularis.md)
 * [Introducció al DOM](DOMIntro.md)
 * [Mètodes DOM](DOMMetodes.md)
@@ -26,6 +35,9 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Canviant l'HTML](DOMHTML.md)
 * [Canviant el CSS](DOMCSS.md)
 * [_Pràctiques bloc 3_](Practiques3.md)
+
+### Bloc 4 de Javascript
+
 * [Animacions DOM](DOMAnimacions.md)
 * [Events DOM](DOMEvents.md)
 * [Event Listener DOM](DOMEventListener.md)
@@ -38,7 +50,16 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 UF2. Estructures definides pel programador. Objectes
 ---------------------------
 
+### Introducció a Vue.js
 * [Frameworks JavaScript](FrameworksJavaScript.md)
+* [Escrivint Hola Mon amb Vue.js](EscrivintHolaMonAmbVuejs.md)
+* [Escrivint llistes](EscrivintLlistes.md)
+* [Creant una llista dinàmica i animada](CreantUnaLlistaDinamicaIAnimada.md)
+* [Reaccionant a events com clics o pulsacions de tecles](ReaccionantAEventsComClicsOPulsacionsDeTecles.md)
+* [Formatejant el text amb filtres](FormatejantElTextAmbFiltres.md)
+* [Debugar aplicacions](DebugarAplicacions.md)
+* [Vue developer
+tools](VueDeveloperTools.md)
 
 UF4. Comunicació asíncrona client-servidor
 ---------------------
