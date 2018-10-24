@@ -1,6 +1,8 @@
 Events DOM
 ==========
 
+[Teoria completa](https://www.w3schools.com/js/js_htmldom_events.asp)
+
 Reaccionant a events
 ---------------------------
 

@@ -1,6 +1,8 @@
 EventListener (oient) del DOM 
 =================
 
+[Teoria completa](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
 Mètode `addEventListener()`
 -----------------
 

@@ -41,10 +41,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Animacions DOM](DOMAnimacions.md)
 * [Events DOM](DOMEvents.md)
 * [Event Listener DOM](DOMEventListener.md)
-* [Navegació DOM](DOMNavegacio.md)
-* [Nodes DOM](DOMNodes.md)
-* [Col·leccions DOM](DOMCollecions.md)
-* [Llistes de nodes DOM](DOMLlistesDeNodes.md)
+* [Creació i navegació pels nodes DOM](DOMCreacioINavegacioPelsNodes.md)
 * [_Pràctiques bloc 4_](Practiques4.md)
 
 UF2. Estructures definides pel programador. Objectes
