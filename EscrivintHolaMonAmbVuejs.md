@@ -1,6 +1,8 @@
 Escrivint Hola Mon amb Vue.js
 ========================
 
+{% raw %}
+
 `new Vue({el:'#app'})` instanciarà una nova instància de `Vue`.
 
 El paràmetre `#app` és un selector que retornarà l'element de la pàgina amb l'identificador `app`.
@@ -17,7 +19,7 @@ El paràmetre `#app` és un selector que retornarà l'element de la pàgina amb 
     {{'Hello ' + 'world'}}
 
     \{
-      
+
     \{\{
   </div>
 
@@ -51,3 +53,5 @@ El paràmetre `#app` és un selector que retornarà l'element de la pàgina amb 
 </body>
 </html>
 ```
+
+{% endraw %}
