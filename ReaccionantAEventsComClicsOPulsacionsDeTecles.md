@@ -1,6 +1,8 @@
 Reaccionant a events com clics o pulsacions de tecles
 ===============================================
 
+{% raw %}
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -134,3 +136,5 @@ new Vue({
   }
 })
 ```
+
+{% endraw %}

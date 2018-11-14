@@ -1,6 +1,8 @@
 Creant una llista dinàmica i animada
 ===================
 
+{% raw %}
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -91,3 +93,5 @@ vm.reactiveArray.splice(0)
 ```
 
 Veurem una solució millor més endavant amb `v-show`.
+
+{% endraw %}

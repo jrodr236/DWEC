@@ -1,6 +1,8 @@
 Formatejant el text amb filtres
 ================
 
+{% raw %}
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -62,3 +64,5 @@ other thing that may seems mysterious is that join(''). Since tail is now an arr
 characters, we need some means to re-join the single letters into a compact string. The
 argument of join represents a separator between the single characters. We don't want any,
 so we pass an empty string.
+
+{% endraw %}

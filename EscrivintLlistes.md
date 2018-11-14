@@ -1,6 +1,8 @@
 Escrivint llistes
 ==============
 
+{% raw %}
+
 Rang de números
 -------------
 
@@ -196,3 +198,5 @@ Arrays
 ```
 
 En aquest cas, no es garanteix que l'ordre del recorregut als atributs de l'objecte sigui el mateix en el que està escrit.
+
+{% endraw %}
