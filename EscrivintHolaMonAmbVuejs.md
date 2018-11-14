@@ -15,6 +15,10 @@ El paràmetre `#app` és un selector que retornarà l'element de la pàgina amb 
 <body>
   <div id="app">
     {{'Hello ' + 'world'}}
+
+    \{
+      
+    \{\{
   </div>
 
   <script>
@@ -44,4 +48,6 @@ El paràmetre `#app` és un selector que retornarà l'element de la pàgina amb 
       }
     })
   </script>
+</body>
+</html>
 ```
