@@ -54,6 +54,7 @@ UF2. Estructures definides pel programador. Objectes
 * [Escrivint llistes](EscrivintLlistes.md)
 * [Creant una llista dinàmica i animada](CreantUnaLlistaDinamicaIAnimada.md)
 * [Reaccionant a events com clics o pulsacions de tecles](ReaccionantAEventsComClicsOPulsacionsDeTecles.md)
+* [Escollint un entorn de desenvolupament](EscollintUnEntornDeDesenvolupament.md)
 * [Formatejant el text amb filtres](FormatejantElTextAmbFiltres.md)
 * [Debugar aplicacions](DebugarAplicacions.md)
 * [Vue developer
