@@ -16,7 +16,7 @@ Editor de Text
 
 Recomanem [Visual Studio Code](https://code.visualstudio.com/). Hi ha una extensió anomenada [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur), amb característiques molt interessants, i també un [Pack d'extensions](https://marketplace.visualstudio.com/items?itemName=mubaidr.vuejs-extension-pack) molt més complet (potser massa per les nostres necessitats).
 
-Hi han, però molts més editors: [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), etc...
+Hi han, però, molts més editors: [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), etc...
 
 
 IDE
@@ -29,8 +29,8 @@ Node package manager (`npm`)
 
 La forma recomanda, i la suportada oficialment per la comunitat de Vue, implica l'ús de `npm`, en particular el paquet anomenat `vue-cli`.
 
-`npm` és el gestor de paquets del llenguatge JavaScript. S'utilitza per defecte a Node.js.
+`npm` és el gestor de paquets del llenguatge JavaScript. S'utilitza per defecte a [Node.js](https://nodejs.org/).
 
-Node.js és un entorn d'execució que executa JavaScript a fora del navegador, és a dir, al servidor.
+[Node.js](https://nodejs.org/) és un entorn d'execució que executa JavaScript a fora del navegador, és a dir, al servidor.
 
 Si no conèixes `npm` i penses programar extensivament amb JavaScript, afegeix a la teva llista de coses a fer conèixer `npm`.
