@@ -42,6 +42,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 * [Events DOM](DOMEvents.md)
 * [Event Listener DOM](DOMEventListener.md)
 * [Creació i navegació pels nodes DOM](DOMCreacioINavegacioPelsNodes.md)
+* [Passar _this_ per paràmetre](PassarThisPerParametre.md)
 * [_Pràctiques bloc 4_](Practiques4.md)
 
 UF2. Estructures definides pel programador. Objectes
