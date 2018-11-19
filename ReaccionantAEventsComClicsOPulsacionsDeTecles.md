@@ -123,6 +123,7 @@ Afegim més interactivitat
 </html>
 ```
 
+
 La web funciona, però què ens mostra la _consola_?
 
 Solució: declarar `newWorld` a la instància de Vue:
@@ -136,5 +137,23 @@ new Vue({
   }
 })
 ```
+
+Abreviacions
+-------------
+
+El caràcter `@` de `@click` [és una abreviació](https://vuejs.org/v2/guide/syntax.html#v-on-Shorthand) de la directiva `v-on:`
+
+
+Per tant, 
+```JavaScript
+<button @click="worlds.push(newWorld)">Conquer</button>
+```
+és el mateix que
+```JavaScript
+<button v-on:click="worlds.push(newWorld)">Conquer</button>
+```
+
+Una altra directiva molt utilitzada, `v-bind:`, es pot abreviar amb `:`
+
 
 {% endraw %}

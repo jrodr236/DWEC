@@ -60,6 +60,21 @@ UF2. Estructures definides pel programador. Objectes
 * [Vue developer
 tools](VueDeveloperTools.md)
 
+### Caracteristiques bàsiques de Vue.js
+
+Aprenent a utilitzar propietats computades
+Filtrant una llista amb una propietat computada
+Ordenant una llista amb una propietat computada
+Format de monedes amb filtres
+Format de dates amb filtres
+Mostrar i amagar un element de forma condicional
+Afegint estils de manera condicional
+Afegint diversió a l'aplicació amb transicions CSS
+Produïr HTML sense format
+Crear un formulari amb caselles de verificació
+Crear un formulari amb botons de ràdio
+Crear un formulari amb un element seleccionat
+
 UF4. Comunicació asíncrona client-servidor
 ---------------------
 
