@@ -48,7 +48,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 UF2. Estructures definides pel programador. Objectes
 ---------------------------
 
-### Introducció a Vue.js
+### Bloc 5, introducció a Vue.js
 * [Frameworks JavaScript](FrameworksJavaScript.md)
 * [Escrivint Hola Mon amb Vue.js](EscrivintHolaMonAmbVuejs.md)
 * [Escrivint llistes](EscrivintLlistes.md)
@@ -59,6 +59,7 @@ UF2. Estructures definides pel programador. Objectes
 * [Debugar aplicacions](DebugarAplicacions.md)
 * [Vue developer
 tools](VueDeveloperTools.md)
+* [_Pràctiques bloc 5_](Practiques5.md)
 
 ### Caracteristiques bàsiques de Vue.js
 
