@@ -86,5 +86,6 @@ Encara que potser ara mateix Angular 1 sigui més popular, pels desenvolupaments
 * Modernizr
 * Video.js
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Choosing the best Javascript Framework: The definitive guide.<a href="https://twitter.com/hashtag/devhumor?src=hash&amp;ref_src=twsrc%5Etfw">#devhumor</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://t.co/k1BBDGfINg">pic.twitter.com/k1BBDGfINg</a></p>&mdash; Garabato Kid (@garabatokid) <a href="https://twitter.com/garabatokid/status/1068575072686931969?ref_src=twsrc%5Etfw">November 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+[Choosing the best Javascript Framework: The definitive guide.](https://twitter.com/garabatokid/status/1068575072686931969)
