@@ -48,7 +48,7 @@ UF3. Esdeveniments. Manejament de formularis. Model d’objectes del document
 UF2. Estructures definides pel programador. Objectes
 ---------------------------
 
-### Bloc 5, introducció a Vue.js
+### Bloc 5: Introducció a Vue.js
 * [Frameworks JavaScript](FrameworksJavaScript.md)
 * [Escrivint Hola Mon amb Vue.js](EscrivintHolaMonAmbVuejs.md)
 * [Escrivint llistes](EscrivintLlistes.md)
@@ -61,6 +61,8 @@ UF2. Estructures definides pel programador. Objectes
 tools](VueDeveloperTools.md)
 * [_Pràctiques bloc 5_](Practiques5.md)
 
+
+<!--
 ### Caracteristiques bàsiques de Vue.js
 
 * Aprenent a utilitzar propietats computades
@@ -75,9 +77,21 @@ tools](VueDeveloperTools.md)
 * Crear un formulari amb caselles de verificació
 * Crear un formulari amb botons de ràdio
 * Crear un formulari amb un element seleccionat
+-->
 
 UF4. Comunicació asíncrona client-servidor
 ---------------------
+
+### Bloc 6: Conceptes previs
+
+* [Introducció a AJAX](IntroduccioAjax.md)
+* [Introducció a JSON](IntroduccióAJson.md)
+* [Node.js](https://nodejs.org/ca/)
+
+
+### Bloc 7: Comunicació client-servidor amb Vue.js
+
+* [Enviar peticions AJAX bàsiques amb Axios](EnviarPeticionsAjaxBasiquesAmbAxios.md)
 
 
 ---

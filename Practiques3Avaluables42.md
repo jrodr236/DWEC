@@ -16,4 +16,4 @@ El formulari tindrà un botó de "Guardar dades" que afegirà totes les dades de
 
 Assegura't que fas la verificació de les dades del formulari.
 
-Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf2-3`
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf3-3`
