@@ -86,7 +86,7 @@ UF4. Comunicació asíncrona client-servidor
 
 * [Introducció a AJAX](IntroduccioAjax.md)
 * [Introducció a JSON](IntroduccióAJson.md)
-* [Node.js](https://nodejs.org/ca/)
+* [Node.js](IntroduccioANodeJs.md)
 
 
 ### Bloc 7: Comunicació client-servidor amb Vue.js
