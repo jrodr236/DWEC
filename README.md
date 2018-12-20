@@ -86,13 +86,15 @@ UF4. Comunicació asíncrona client-servidor
 
 * [Introducció a AJAX](IntroduccioAjax.md)
 * [Introducció a JSON](IntroduccióAJson.md)
+* [Introducció a REST](IntroduccióARest.md)
 * [Introducció a Node.js](IntroduccioANodeJs.md)
 * [Components de Vue.js](ComponentsVueJs.md)
 
 ### Bloc 7: Comunicació client-servidor amb Vue.js
 
 * [Enviar peticions AJAX bàsiques amb Axios](EnviarPeticionsAjaxBasiquesAmbAxios.md)
-
+* [Validar les dades dels usuaris abans d'enviar-les](ValidarLesDadesDelsUsuarisAbansDEnviarles.md)
+* [Enviar dades a un servidor](EnviarDadesAUnServidor.md)
 
 ---
 
