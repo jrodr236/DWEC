@@ -153,7 +153,7 @@ Es torna a quedar en blanc. Mira al seu costat. L'Amaia el somriu, i recorda la 
 > 
 > Siento que bailo por primera vez junto a ti, oh
 
-_Dedicat a la 크리스], guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
+_Dedicat a la 크리스, guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
 
 
 Enunciat curt
