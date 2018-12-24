@@ -50,7 +50,7 @@ Va intentar no pensar-hi més, s'estava torturant a si mateix.
 
 La seva amiga, això és el que més troba a faltar. Potser... potser podrien fer-ho. Potser podrien ser amics, no? Podrien ser amics, podrien tornar a mirar sèries coreanes. Però... potser haurien de començar veient-les per separat, anar a poc a poc. Com podrien coordinar-se?
 
-Vibra el mòbil de'n Joan.
+Vibra el mòbil d'en Joan.
 
 > **[Alfred]** Joan? Hola! Sóc d'Alfred.
 
