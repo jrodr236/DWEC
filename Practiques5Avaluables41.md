@@ -1,9 +1,9 @@
 Vue.js Kanban
 ================
 
-Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets un impacient, ves a l'enunciat curt, alf inal de la pàgina.
+Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets un impacient, ves a l'enunciat curt, al final de la pàgina.
 
-Enunciat llarg
+Enunciat llarg i super currat
 --------------
 
 L'Alfred està a l'escenari, a Lisboa. Un altre cop. Mira al seu costat i hi ha la seva estimada. Canten plegats:
@@ -46,11 +46,11 @@ Mentre s'afaita, no pot evitar pensar per què se li repeteix tant aquest malson
 
 Va intentar no pensar-hi més, s'estava torturant a si mateix.
 
-És curiós com, quan les relacions s'acaben, pot ser que el que més trobis a faltar son les petites coses. Com escoltar junts els discos dels Beatles un cop i un altre, o les maratons de sèries coreanes (un petit hobbie que compartien i que, per sort, no ha transcendit als mitjans).
+És curiós com, quan les relacions s'acaben, pot ser que el que més trobis a faltar son les petites coses. Com escoltar junts els discos dels Beatles sense parar, o les maratons de sèries coreanes (un petit hobbie que compartien i que, per sort, no ha transcendit als mitjans).
 
-La seva amiga, això és el que més trovaba a faltar. Potser... potser podríen fer-ho. Potser podríen ser amics, no? Podríen ser amics, podríen tornar a mirar sèries coreanes. Però... potser hauríen de començar veient-les per separat, anar a poc a poc. Com podríen coordinar-se?
+La seva amiga, això és el que més troba a faltar. Potser... potser podríen fer-ho. Potser podríen ser amics, no? Podríen ser amics, podríen tornar a mirar sèries coreanes. Però... potser hauríen de començar veient-les per separat, anar a poc a poc. Com podríen coordinar-se?
 
-Vibra el mòbil.
+Vibra el mòbil de'n Joan.
 
 > **[Alfred]** Joan? Hola! Sóc d'Alfred.
 
@@ -84,7 +84,7 @@ Vibra el mòbil.
 
 > **[Joan]** Adéu crac!
 
-Ara et toca a tu! 
+Ara et toca a **tu!**
 
 Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda a l'Alfred a recuperar a la seva amiga.
 
@@ -93,9 +93,9 @@ Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
 
 ### PS:
 
-L'Alfred ha rebut un dels taulers Kanban virtuals fets pels alumnes d'informàtica de l'institut. Ha parlat amb l'Amaia i li ha agradat molt la idea de recuperar el seu costum, de moment a distància, de veure series coreanes plegats.
+L'Alfred ha rebut un dels taulers Kanban virtuals fets pels alumnes d'informàtica de l'institut. Ha parlat amb l'Amaia i li ha agradat molt la idea de tornar a veure series coreanes plegats. De moment, però, a distància
 
-Aquesta nit es van adormir gairebé alhora, a les 3:00 de la matinada, amb l'Skype i Netflix oberts. 
+Aquesta nit tots dos es van adormir gairebé alhora, a les 3:00 de la matinada, amb l'Skype i Netflix oberts. 
 
 > Nunca llegué a imaginar
 > 
@@ -153,7 +153,7 @@ Es torna a quedar en blanc. Mira al seu costat. L'Amaia el somriu, i recorda la 
 > 
 > Siento que bailo por primera vez junto a ti, oh
 
-_Dedicat a la guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
+_Dedicat a la 크리스], guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
 
 
 Enunciat curt
