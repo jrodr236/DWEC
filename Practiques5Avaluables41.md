@@ -46,9 +46,9 @@ Mentre s'afaita, no pot evitar pensar per què se li repeteix tant aquest malson
 
 Va intentar no pensar-hi més, s'estava torturant a si mateix.
 
-És curiós com, quan les relacions s'acaben, pot ser que el que més trobis a faltar son les petites coses. Com escoltar junts els discos dels Beatles sense parar, o les maratons de sèries coreanes (un petit hobbie que compartien i que, per sort, no ha transcendit als mitjans).
+És curiós com, quan les relacions s'acaben, pot ser que el que més trobis a faltar son les petites coses. Com escoltar junts els discos dels Beatles sense parar, o les maratons de sèries coreanes (un petit _hobbie_ que compartien i que, per sort, no ha transcendit als mitjans).
 
-La seva amiga, això és el que més troba a faltar. Potser... potser podríen fer-ho. Potser podríen ser amics, no? Podríen ser amics, podríen tornar a mirar sèries coreanes. Però... potser hauríen de començar veient-les per separat, anar a poc a poc. Com podríen coordinar-se?
+La seva amiga, això és el que més troba a faltar. Potser... potser podrien fer-ho. Potser podrien ser amics, no? Podrien ser amics, podrien tornar a mirar sèries coreanes. Però... potser haurien de començar veient-les per separat, anar a poc a poc. Com podrien coordinar-se?
 
 Vibra el mòbil de'n Joan.
 
