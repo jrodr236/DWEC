@@ -10,7 +10,7 @@ Exemple
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Exemple Axios</title>
+  <title>Advice of the day</title>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <script src="https://unpkg.com/axios/dist/axios.js"></script>
 </head>

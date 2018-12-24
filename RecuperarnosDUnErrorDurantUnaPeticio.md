@@ -7,7 +7,7 @@ Crearem un web per demanar pizzes des de la muntanya de l'Everest. Com que tenen
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Pizza</title>
+  <title>Everest pizza delivery</title>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <script src="https://unpkg.com/axios/dist/axios.js"></script>
   <style>
