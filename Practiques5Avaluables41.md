@@ -86,7 +86,7 @@ Vibra el mòbil.
 
 Ara et toca a tu! 
 
-Implementar un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda a l'Alfred a recuperar a la seva amiga.
+Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda a l'Alfred a recuperar a la seva amiga.
 
 Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
 
@@ -159,6 +159,6 @@ _Dedicat a la guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
 Enunciat curt
 -------------
 
-Implementar un Kanban amb Vue.js de tres estats: to-do, doing & done.
+Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done.
 
 Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
