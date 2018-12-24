@@ -1,7 +1,7 @@
 Vue.js Kanban
 ================
 
-Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets un impacient, ves a l'[enunciat curt](#Enunciat-curt).
+Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets un impacient, ves a l'enunciat curt, alf inal de la pàgina.
 
 Enunciat llarg
 --------------
@@ -84,7 +84,12 @@ Vibra el mòbil.
 
 > **[Joan]** Adéu crac!
 
-Ara et toca a tu! Llegeix l'[enunciat curt](#Enunciat-curt), i ajuda a l'Alfred a recuperar a la seva amiga.
+Ara et toca a tu! 
+
+Implementar un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda a l'Alfred a recuperar a la seva amiga.
+
+Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
+
 
 ### PS:
 
