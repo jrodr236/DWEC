@@ -42,7 +42,7 @@ Vibra el mòbil d'en Joan.
 
 > **[Joan]** Vale, vale, no et posis a cantar, pesat!
 
-> **[Alfred]** Jajajaja. Mira, Joan, em pots fer un favor? Necessito alguna "cosa" informàtica, que em permeti coordinar-me amb un col·lega per veure sèries coreanes. Per tenir apuntades les que volem veure, les que estem veient, i les que ja hem vist.
+> **[Alfred]** Hahahaha! Mira, Joan, em pots fer un favor? Necessito alguna "cosa" informàtica, que em permeti coordinar-me amb un col·lega per veure sèries coreanes. Per tenir apuntades les que volem veure, les que estem veient, i les que ja hem vist.
 
 > **[Joan]** Home, tu el que vols és un Kanban!
 
