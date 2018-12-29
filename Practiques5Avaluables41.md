@@ -86,7 +86,7 @@ Son les 3 de la matinada i els dos amics encara estan desperts, amb l'Skype i Ne
 
 > **[Alfred]** Vete por ahí!
 
-_Dedicat a la 크리스, guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
+_Dedicat a la 크리스, guanyadora del premi DonaTIC 2018 en la categoria Estudiant TIC FP._
 
 
 Enunciat curt
