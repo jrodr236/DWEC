@@ -1,4 +1,4 @@
-Vue.js Kanban
+Vue.js Kanban: 한국 시리즈
 ================
 
 Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets un impacient, ves a l'enunciat curt, al final de la pàgina.
@@ -6,49 +6,23 @@ Vols gaudir d'un enunciat super currat? Doncs segueix llegint. Si, en canvi, ets
 Enunciat llarg i super currat
 --------------
 
-L'Alfred està a l'escenari, a Lisboa. Un altre cop. Mira al seu costat i hi ha la seva estimada. Canten plegats:
+L'Alfred no s'ho podia creure.
 
-> Nunca llegué a imaginar
-> 
-> Que viajar a la luna sería real
-> 
-> Lo pones todo al revés
-> 
-> Cuando besas mi frente y descubro por qué
-> 
-> Ya no puedo
-> 
-> Inventarlo
-> 
-> Siento que bailo por primera vez
-> 
-> Eres el arte que endulza la piel
-> 
-> De mi mente viajera que sigue tus pies
->
-> Siento que bailo por primera vez junto a ti, oh
-> 
-> Sé que en ti puedo encontrar
-> 
-> Esa voz que me abriga si el tiempo va mal
-> 
-> Todo es perfecto si estás
-> 
-> A mi lado creando una nueva ciudad
-> 
-> ...
+> **[Alfred]** No me lo creo.
 
-De cop, es queda en blanc. Torna a mirar al seu costat. L'Amaia el mira, emprenyada.
+> **[Famous]** En serio, joder, que me llamo así.
 
-De sobte, Alfred desperta. Està empapat en suor. Ha tornat a tenir el mateix somni. Porta més de 3 setmanes repetint-se.
+> **[Alfred]** Famous? Que va!
 
-Mentre s'afaita, no pot evitar pensar per què se li repeteix tant aquest malson. Què li vol dir el seu subconscient? Què va passar? Per què van tallar? Tot semblava que anava tan bé i, de sobte...
+> **[Famous]** Que sí!
 
-Va intentar no pensar-hi més, s'estava torturant a si mateix.
+Y així va començar la seva amistad.
 
-És curiós com, quan les relacions s'acaben, pot ser que el que més trobis a faltar son les petites coses. Com escoltar junts els discos dels Beatles sense parar, o les maratons de sèries coreanes (un petit _hobbie_ que compartien i que, per sort, no ha transcendit als mitjans).
+El Famous, que encara no havia assimilat la seva nova fama, trucava a l'Alfred per explicar-li els canvis que no aconseguia assimilar. L'Alfred, que encara se sentia sol després de la ruptura amb l'Amaia, li va anar molt bé trobar un nou amic, i l'aconsellava tan bé com podia. Parlaven sobre el dia a dia de les seves noves vides: periodistes, fans descontrolats...
 
-La seva amiga, això és el que més troba a faltar. Potser... potser podrien fer-ho. Potser podrien ser amics, no? Podrien ser amics, podrien tornar a mirar sèries coreanes. Però... potser haurien de començar veient-les per separat, anar a poc a poc. Com podrien coordinar-se?
+Després de forces cafès, quan es trobaven a la mateixa ciutat, i videoconferències quan no, es van sorprendre en tenir una afició comuna: les sèries coreanes.
+
+Se'ls va acudir que podrien mirar-les alhora, i així després les podrien comentar (que sol ser el més divertit).
 
 Vibra el mòbil d'en Joan.
 
@@ -68,7 +42,7 @@ Vibra el mòbil d'en Joan.
 
 > **[Joan]** Vale, vale, no et posis a cantar, pesat!
 
-> **[Alfred]** Jajajaja. Mira, Joan, em pots fer un favor? Necessito alguna "cosa" informàtica, que em permeti coordinar-me amb... amb una amiga... per veure sèries coreanes. Per tenir apuntades les que volem veure, les que estem veient, i les que ja hem vist.
+> **[Alfred]** Jajajaja. Mira, Joan, em pots fer un favor? Necessito alguna "cosa" informàtica, que em permeti coordinar-me amb un col·lega per veure sèries coreanes. Per tenir apuntades les que volem veure, les que estem veient, i les que ja hem vist.
 
 > **[Joan]** Home, tu el que vols és un Kanban!
 
@@ -86,72 +60,31 @@ Vibra el mòbil d'en Joan.
 
 Ara et toca a **tu!**
 
-Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda a l'Alfred a recuperar a la seva amiga.
+Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda als dos amics a compartir la seva aficció.
 
 Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
 
 
 ### PS:
 
-L'Alfred ha rebut un dels taulers Kanban virtuals fets pels alumnes d'informàtica de l'institut. Ha parlat amb l'Amaia i li ha agradat molt la idea de tornar a veure series coreanes plegats. De moment, però, a distància
+L'Alfred ha rebut un dels taulers Kanban virtuals fets pels alumnes d'informàtica de l'institut. Ha parlat amb el Famous i li ha agradat molt la idea d'utilitzar-lo per veure series coreanes plegats.
 
-Aquesta nit tots dos es van adormir gairebé alhora, a les 3:00 de la matinada, amb l'Skype i Netflix oberts. 
+Son les 3 de la matinada i els dos amics encara estan desperts, amb l'Skype i Netflix oberts. 
 
-> Nunca llegué a imaginar
-> 
-> Que viajar a la luna sería real
-> 
-> Lo pones todo al revés
-> 
-> Cuando besas mi frente y descubro por qué
-> 
-> Ya no puedo
-> 
-> Inventarlo
-> 
-> Siento que bailo por primera vez
-> 
-> Eres el arte que endulza la piel
-> 
-> De mi mente viajera que sigue tus pies
->
-> Siento que bailo por primera vez junto a ti, oh
-> 
-> Sé que en ti puedo encontrar
-> 
-> Esa voz que me abriga si el tiempo va mal
-> 
-> Todo es perfecto si estás
-> 
-> A mi lado creando una nueva ciudad
-> 
-> ...
 
-Es torna a quedar en blanc. Mira al seu costat. L'Amaia el somriu, i recorda la cançó:
+> **[Alfred]** Sabes una cosa?
 
-> Siento que bailo por primera vez
-> 
-> Eres el arte que endulza la piel
-> 
-> De mi mente viajera que sigue tus pies
-> 
-> Siento que bailo por primera vez
-> 
-> Ya no puedo
-> 
-> Inventarlo
-> 
-> Solo quiero
-> 
-> Tu canción, oh, oh, oh
-> 
-> Siento que bailo por primera vez
-> 
-> Eres el arte que endulza la piel
-> 
-> De mi mente viajera que sigue tus pies
-> 
-> Siento que bailo por primera vez junto a ti, oh
+> **[Famous]** Dime.
+
+> **[Alfred]** Hecho mucho de menos a Amaia.
+
+> **[Famous]** Ya... mira, voy a decirte una cosa para animarte. Te voy a decir mi nombre real.
+
+> **[Alfred]** Cual!
+
+> **[Famous]** Famous!
+
+> **[Alfred]** Vete por ahí!
 
 _Dedicat a la 크리스, guanyadora del premi DonaTIC en la categoria Estudiant TIC FP._
 
