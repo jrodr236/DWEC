@@ -98,6 +98,7 @@ UF4. Comunicació asíncrona client-servidor
 * [Enviar dades a un servidor](EnviarDadesAUnServidor.md)
 * [Recuperar-nos d'un error durant una petició](RecuperarnosDUnErrorDurantUnaPeticio.md)
 * [Crear un client i un servidor REST](CrearUnClientIUnServidorREST.md)
+* [_Pràctiques bloc 7_](Practiques7.md)
 
 ---
 
