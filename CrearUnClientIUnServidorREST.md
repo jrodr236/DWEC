@@ -66,11 +66,10 @@ Obrir un navegador i consultar el port 3030.
       },
       methods: {
         deleteItem (id) {
-          console.log('delete')
           axios.delete('http://localhost:3030/messages/' + id)
             .then(response => {
               if (response.status < 400) {
-                this.messages.splice(this.messages.findIndex(e => e.id === id), 1)
+                this.messages.splice(this.messages.findIndex(e => e._id === id), 1)
               }
             })
         },
