@@ -5,12 +5,6 @@ Gatets _(pràctica no avaluable)_
 ---------------------
 
 Una de les coses més guays d'Internet son les fotos de gats. Et pots passar hores mirant-les i no et canses mai. Ho has provat?
-- https://www.catster.com/wp-content/uploads/2018/05/A-gray-cat-crying-looking-upset.jpg
-
-   ![](https://www.catster.com/wp-content/uploads/2018/05/A-gray-cat-crying-looking-upset.jpg)
-- https://cdn.britannica.com/67/197567-131-1645A26E.jpg
-
-   ![](https://cdn.britannica.com/67/197567-131-1645A26E.jpg)
 
 Però a les hores de classe no!
 
