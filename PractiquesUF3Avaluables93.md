@@ -16,4 +16,4 @@ Recorda: centra't en que el codi sigui **clar**, **correcte** i **robust**.
 
 ![Imatge d'exemple](img/TaulaDeColors-v2.png)
 
-Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf2`
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf3`

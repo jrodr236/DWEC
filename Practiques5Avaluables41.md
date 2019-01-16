@@ -64,7 +64,6 @@ Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done, i ajuda als
 
 Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
 
-
 ### PS:
 
 L'Alfred ha rebut un dels taulers Kanban virtuals fets pels alumnes d'informàtica de l'institut. Ha parlat amb el Famous i li ha agradat molt la idea d'utilitzar-lo per veure series coreanes plegats.
@@ -88,6 +87,7 @@ Son les 3 de la matinada i els dos amics encara estan desperts, amb l'Skype i Ne
 
 _Dedicat a la 크리스, guanyadora del premi DonaTIC 2018 en la categoria Estudiant TIC FP._
 
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf2`
 
 Enunciat curt
 -------------
@@ -95,3 +95,5 @@ Enunciat curt
 Implementa un Kanban amb Vue.js de tres estats: to-do, doing & done.
 
 Utilitza la següent [plantilla](Practiques5Avaluables41-plantilla.html).
+
+Tots els fitxers que generis han d'estar dins d'un directori anomenat `uf2`
