@@ -44,5 +44,3 @@ URL foto: _______
 ```
 
 ![Captura d'exemple](Practiques7.png)
-
-La pràctica avaluable serà una ampliació d'aquesta pràctica.
