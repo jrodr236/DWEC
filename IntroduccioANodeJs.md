@@ -51,7 +51,7 @@ npm install @vue/cli -g
 Comprovem la versió
 
 ```
-vue -- version
+vue --version
 ```
 
 Fixa't que, fins ara, utilitzàvem una versió anterior: https://unpkg.com/vue/dist/vue.js
