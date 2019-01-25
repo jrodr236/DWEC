@@ -58,15 +58,16 @@ Fixa't que, fins ara, utilitzàvem una versió anterior: https://unpkg.com/vue/d
 
 Crear projecte
 --------------
-
+```
 vue create prova_vuejs
-
+```
+Escollir la opció per defecte:
 ```
 > default (babel, eslint)
 ```
 
+Entrar al directori creat i iniciar el servidor:
+```
 cd prova_vuejs
-
 npm run serve
-
-
+```
