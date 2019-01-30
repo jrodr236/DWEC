@@ -1,6 +1,8 @@
 Components de Vue.js
 =======
 
+{% raw %}
+
 ![The evolution of software architecture](http://eye8.me/2016/06/30/Educational-Microservice/pasta.jpg)
 
 Quan hem de treballar amb projectes grans, es recomana utilitzar components.
@@ -99,3 +101,5 @@ Crearem un component (fitxer `App.vue`)
 Canvis:
 * A la versió 3.X de Vue.js, cal afegir la clau de cada entrada als `v-for` (`v-bind:key`).
 * Dins un component, `data` ha de ser una funció.
+
+{% endraw %}
