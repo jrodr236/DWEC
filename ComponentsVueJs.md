@@ -1,6 +1,8 @@
 Components de Vue.js
 =======
 
+![The evolution of software architecture](http://eye8.me/2016/06/30/Educational-Microservice/pasta.jpg)
+
 Quan hem de treballar amb projectes grans, es recomana utilitzar components.
 
 Els components son instàncies de Vue reutilitzables.
