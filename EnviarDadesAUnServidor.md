@@ -1,6 +1,8 @@
 Enviar dades a un servidor
 ======================
 
+{% raw %}
+
 Imaginem que tenim un _blog_ i volem escriure una nova _entrada_.
 
 Com que no tenim cap servidor per enviar l'_entrada_, treballarem amb un servei molt útil: Typicode. Bàsicament és un _fake REST server_. Enviarem una petició i el servidor respondrà d'una manera realista, encara que no passi res en realitat.
@@ -148,3 +150,5 @@ Es mostra a continuació el codi equivalent utilitzant els objectes natius del n
 </body>
 </html>
 ```
+
+{% endraw %}

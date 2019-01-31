@@ -1,6 +1,8 @@
 Validar les dades dels usuaris abans d'enviar-les
 ========================================
 
+{% raw %}
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -89,3 +91,5 @@ Creació de funcions
 -------------------
 
 Fixa't que, en l'exemple anterior, es mostra com es poden crear funcions a Vue: a dins l'atribut `methods` de la instància de `Vue`.
+
+{% endraw %}

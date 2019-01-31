@@ -1,6 +1,8 @@
 Recuperar-nos d'un error durant una petició
 =======================================
 
+{% raw %}
+
 Crearem un web per demanar pizzes des de la muntanya de l'Everest. Com que tenen una connexió a Internet força dolenta, s'haura de repetir la petició vàries vegades abans de donar-nos per veçuts respecte a la pizza.
 
 ```html
@@ -96,3 +98,4 @@ Si no funciona cap petició de pizza, variar els paràmetres de Everest.
 
 Hi ha moltes maneres d'enfrontar-se a connexions lentes o inestables, i hi ha moltes biblioteques que s'integren amb Axios (com Patience JS), que tenen estratègies més avançades per reenviar peticions i son senzilles d'utilitzar.
 
+{% endraw %}

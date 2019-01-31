@@ -1,6 +1,8 @@
 Crear un client i un servidor REST
 ==================================
 
+{% raw %}
+
 Servidor REST
 -------------
 Utilitzarem _Feather.js_ per crear un servidor REST.
@@ -120,3 +122,5 @@ Recordem els _verbs_ del protocol HTTP i les accions que es produeixen a REST:
 - DELETE: elimina un recurs
 
 Axios utilitza els verbs d'HTTP per anomenar els seus mètodes.
+
+{% endraw %}

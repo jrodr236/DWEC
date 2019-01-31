@@ -1,6 +1,8 @@
 Enviant peticions AJAX bàsiques amb Axios
 =========================================
 
+{% raw %}
+
 **Axios** és la llibreria recomenada per fer peticions HTTP a Vue. Permet dur a terme operacions utilitzant el patró REST de forma senzilla. Permet treballar amb concurrència, generant diverses sol·licituds al mateix temps.
 
 Exemple
@@ -120,3 +122,5 @@ error => {
 ```
 
 Podem tornar a generar un error desactivant l'extensió anterior, o desconnectant la xarxa.
+
+{% endraw %}
