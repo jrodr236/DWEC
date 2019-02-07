@@ -59,6 +59,25 @@ Dins del directori `xat-node`, executar les següents comandes:
 ```
 npm install --save express@4.15.2
 npm install --save socket.io
+```
+
+Després d'executar les comandes anteriors, s'han afegit les dependències instal·lades al fitxer de configuració `package.json`:
+
+```JSON
+{
+  "name": "exemple-socket-xat",
+  "version": "0.0.1",
+  "description": "la meva primera app socket.io",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
+```
+
+Ara, arrenquem l'app:
+
+```
 node servidor-xat.js
 ```
 
@@ -179,3 +198,18 @@ document.getElementById("formulari").addEventListener("click", function (event) 
     event.preventDefault()
 });
 ```
+
+Obrim l'arxiu html en dos o tres pestanyes d'un navegador web.
+
+Podem comprovar que els missatges escrits en una de les pestanyes s'envia a les altres.
+
+Ara caldria identificar les parts principals del codi:
+- `servidor-xat.js`
+  * Connexió d'un usuari
+  * Desconnexió d'un usuari
+  * recepció d'un missatge
+  * reenviament del missatge a tothom, o exceptuant l'emissor
+- `xat.js`
+  * enviament d'un missatge
+  * recepció d'un missatge
+
