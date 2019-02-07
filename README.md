@@ -100,6 +100,9 @@ UF4. Comunicació asíncrona client-servidor
 * [Crear un client i un servidor REST](CrearUnClientIUnServidorREST.md)
 * [_Pràctiques bloc 7_](Practiques7.md)
 
+### Bloc 8: Aplicacions en temps real
+* [Creant aplicacions en temps real amb Socket.IO](CreantAplicacionsEnTempsRealAmbSocketIO.md)
+
 ---
 
 Autor: Joan Rodríguez Bellido
