@@ -102,6 +102,7 @@ UF4. Comunicació asíncrona client-servidor
 
 ### Bloc 8: Aplicacions en temps real
 * [Creant aplicacions en temps real amb Socket.IO](CreantAplicacionsEnTempsRealAmbSocketIO.md)
+* [_Pràctiques bloc 8_](Pràctiques8.md)
 
 ---
 
