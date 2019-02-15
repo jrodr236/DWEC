@@ -7,7 +7,9 @@ Instal·lació i configuració de Socket.IO
 --------------------------
 
 Crear un directori amb nom `xat-node`.
-Afegir-hi els següents fitxers:
+Hi afegirem els següents fitxers:
+- package.json
+- servidor-xat.js
 
 ### package.json
 
@@ -54,6 +56,8 @@ http.listen(3000, function(){
   console.log('escoltant a *:3000');
 });
 ```
+
+### Configuració i execució del servidor
 
 Dins del directori `xat-node`, executar les següents comandes:
 ```
@@ -199,7 +203,7 @@ document.getElementById("formulari").addEventListener("click", function (event) 
 });
 ```
 
-Obrim l'arxiu html en dos o tres pestanyes d'un navegador web.
+Obrim l'arxiu html vàries vegades, en dos o tres pestanyes d'un navegador web.
 
 Podem comprovar que els missatges escrits en una de les pestanyes s'envia a les altres.
 
