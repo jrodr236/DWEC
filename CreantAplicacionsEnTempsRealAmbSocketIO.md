@@ -1,6 +1,8 @@
 Creant aplicacions en temps real amb Socket.IO
 ===================
 
+{% raw %}
+
 Les aplicacions modernes son el temps real, no en el sentit tradicional, sinò en el que no necessiten recarregar la pàgina per actualitzar-se. La forma més comuna per implementar això és amb WebSockets. El següent exemple utilitzarà Socket.io per fer un xat.
 
 Instal·lació i configuració de Socket.IO
@@ -217,3 +219,4 @@ Ara caldria identificar les parts principals del codi:
   * enviament d'un missatge
   * recepció d'un missatge
 
+{% endraw %}
